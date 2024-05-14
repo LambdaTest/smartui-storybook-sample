@@ -1,4 +1,4 @@
-# SmartUI Storybook Sample 
+# SmartUI Storybook Sample  
 
 ## Installation
 
