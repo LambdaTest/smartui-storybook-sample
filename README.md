@@ -1,5 +1,6 @@
-# SmartUI Storybook Sample
- 
+
+# SmartUI Storybook Sample  
+
 ## Installation
 
 1. Clone this repository
