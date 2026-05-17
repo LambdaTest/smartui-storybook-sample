@@ -23,6 +23,7 @@
     ```
     git clone https://github.com/LambdaTest/smartui-storybook-sample
     ```
+
 2. Navigate to project directory
     ```
     cd smartui-storybook-sample
@@ -39,4 +40,3 @@
     ```
     docker run -e PROJECT_TOKEN="your_project_token" <image_name>
     ```
-
