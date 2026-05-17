@@ -7,7 +7,7 @@
     git clone https://github.com/LambdaTest/smartui-storybook-sample
     ```
 
-2. Change directory to the downloaded git repo and install packages
+2. Chang e directory to the downloaded git repo and install packages
     ```
     npm install
     ```
