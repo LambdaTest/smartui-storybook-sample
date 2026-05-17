@@ -17,9 +17,9 @@ With TestMu AI (Formerly LambdaTest), you can run SmartUI Storybook visual regre
 
 ### Prerequisites
 
-- [Node.js](https://nodejs.org/en/) installed on your system.
-- A TestMu AI (Formerly LambdaTest) account. [Sign up here](https://www.testmuai.com/register/).
-- A SmartUI project token from your [SmartUI dashboard](https://smartui.lambdatest.com/projects).
+- Node.js installed on your system.
+- A TestMu AI (Formerly LambdaTest) account. Sign up here.
+- A SmartUI project token from your SmartUI dashboard.
 
 ### Setup
 
